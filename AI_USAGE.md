@@ -27,10 +27,9 @@ La primera implementacion calculaba correctamente la matriz de valores, pero no 
 
 ## Aprendizajes del equipo
 
-**Valeria Perez:** completar antes de la entrega con un aprendizaje real que pueda explicar durante la sustentacion.
+**Valeria Perez:** cómo funcionan los principales algoritmos de grafos usados en el proyecto y a entender en qué tipo de problema se utiliza cada uno.
 
-**Mariana Zuluaga:** completar antes de la entrega con un aprendizaje real que pueda explicar durante la sustentacion.
-
+**Mariana Zuluaga:** diferenciar algoritmos como BFS, DFS, Dijkstra y Kruskal, y a entender cómo se usan para encontrar caminos, costos mínimos o conexiones dentro de un grafo.
 ## Verificacion realizada
 
 Se revisaron los casos de ejemplo de las cuatro misiones y la estructura general del proyecto. Antes de entregar, el equipo debe ejecutar nuevamente `mvn test`, abrir la interfaz, probar cada ejemplo y verificar que ambas integrantes puedan explicar y modificar cualquier parte del codigo.
